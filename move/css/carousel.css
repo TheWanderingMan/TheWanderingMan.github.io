@@ -1,0 +1,15 @@
+@charset "utf-8";
+#carousal{
+	width:640px;
+	height:460px;
+	background: yellow;
+	line-height: 460px;
+	text-align: center;
+	font-size:50px;
+	font-weight:bold;
+	letter-spacing: 6px;
+}
+#carousal img{
+	width:100%;
+	height:100%;
+}

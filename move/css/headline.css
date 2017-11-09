@@ -1,0 +1,35 @@
+@charset "utf-8";
+#headline{
+	width:640px;
+	height:474px;
+	/*background:#f2f2f2s;*/
+	/*background: deepskyblue;*/
+	padding:12px 8px 12px 8px;
+	box-sizing: border-box;
+	margin: 10px 0 10px 0;
+}
+#headline_{
+	width:100%;
+	height:100%;
+	border-radius: 12px;
+	background: white;
+	overflow: hidden;
+}
+img{
+	width:100%;
+	height:100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

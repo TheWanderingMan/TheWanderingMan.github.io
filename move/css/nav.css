@@ -1,0 +1,91 @@
+@charset "utf-8";
+.redB{
+	box-sizing:border-box;
+	border:1px solid red;
+}
+#homepage{
+	width: 640px;
+}
+#homepage #box1{
+	width: 640px;
+}
+#nav{
+	width: 640px;
+	height: 70px;
+	padding: 0px 68px 0px 68px;
+	box-sizing:border-box ;
+	background: white;
+}
+#nav .news,#nav .labs{
+	float: left;
+	width:50%;
+	height:100%;
+}
+.navShow{
+	background: rgba(0,0,0,.05);
+}
+#nav .news p,#nav .labs p{
+	margin:0 86px;
+	width:80px;
+	height:100%;
+	line-height:70px ;
+	text-align: center;
+	font-size:22px;
+}
+.navBorder{
+	border-bottom:5px solid #f9c300;
+	box-sizing: border-box;
+}
+#nav .labs{
+	
+}
+.navColor{
+	color:#b2b2b2;
+}
+
+.navHidden{
+	display: none;
+}
+
+.navShow{
+	display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
